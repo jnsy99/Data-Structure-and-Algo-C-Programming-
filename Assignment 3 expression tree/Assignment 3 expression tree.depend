@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645468294 source:c:\users\65909\desktop\c\assignment 3 expression tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
